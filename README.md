@@ -1,4 +1,12 @@
 # EquiFusion - Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion (ECCV 2026)
+
+---
+
+## ⭐ Official repository: [Ceveloper/EquiFusion](https://github.com/Ceveloper/EquiFusion)
+👉 Please star & contribute there — this repo is just a mirror.
+
+---
+
 **[Website](https://ceveloper.github.io/publications/equifusion/)** |
 **[Paper](https://arxiv.org/abs/2607.10984)** |
 **[Demo](https://huggingface.co/spaces/ceccurr/EquiFusion)** |
